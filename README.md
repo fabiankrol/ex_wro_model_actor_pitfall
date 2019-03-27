@@ -1,1 +1,1 @@
-# ex_wro_model_actor_pitfall
+Slides for 'Elixir community introduction' for Elixir Wroclaw user group.
